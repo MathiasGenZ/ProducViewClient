@@ -1,0 +1,45 @@
+{
+  "name_py": "Nike jordan air",
+  "description_py": "asd",
+  "obs_py": "obs I",
+  "price": 1,
+  "price_low": 1,
+  "price_in": 1,
+  "price_discount": 1,
+  "quantity": 1,
+  "quantity_alert": 1,
+  "alert_date": "2023-04-24",
+  "expiration_date": "2023-04-28",
+  "income_date": "2023-04-17",
+  "sell_status_zero": false,
+  "status_new": true,
+  "bar_code": "1111",
+  "qr_code": "",
+  "id_color_product": [2, 3],
+  "id_material_product": [1, 2],
+  "id_image_products": [1, 2, 3],
+  "id_brands": [1, 2],
+  "id_category": [1, 2],
+  "units_measures": {
+    "depth": "",
+    "height": "",
+    "meter": "",
+    "width": "",
+    "weight": ""
+  },
+  "warranties": {
+    "description_py": "",
+    "duration_days": 1,
+    "duration_days_used": 1,
+    "end_date": "",
+    "init_date": ""
+  },
+  "swap_products": {
+    "battery": "",
+    "camara": "",
+    "classification": "",
+    "esthetic": "",
+    "functionality": "",
+    "touch": ""
+  }
+}
